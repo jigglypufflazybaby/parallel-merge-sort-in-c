@@ -1,0 +1,4 @@
+name : riya sunil sudrik
+std : lycore-1
+roll no.: 2213242
+subject : hpcl
